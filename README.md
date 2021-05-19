@@ -2,4 +2,4 @@
 
 Clon pagina de inicio google html-css
 
-![image](file:///home/nicolaspa/Pictures/Screenshot%20from%202021-05-19%2016-08-05.png)
+![Screenshot from 2021-05-19 16-08-05](https://user-images.githubusercontent.com/38383906/118884921-ae25b000-b8bc-11eb-97fc-a0609e06b036.png)
